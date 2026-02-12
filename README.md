@@ -130,7 +130,6 @@ Your backend must expose:
 - Log comprehensive metrics for debugging
 - Version your models clearly
 - Test your containerized API locally before submission
-- Automate the retraining pipeline for faster iteration
 
 ## Rules
 
