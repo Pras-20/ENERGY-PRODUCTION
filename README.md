@@ -98,7 +98,6 @@ energy-production-forecast/
 ## Key Endpoints (Provided on Competition Day)
 
 - **Data Fetch Endpoint**: `GET https://container-chaos-b2c6bde72854.herokuapp.com/energy/train-test` - Returns train and test datasets
-- **Label Request Endpoint**: `POST https://container-chaos-b2c6bde72854.herokuapp.com/energy/production/outputs` - Submit drifted features, receive ground truth labels
 
 ## Implementation Requirements
 
